@@ -9,6 +9,9 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
+
+  console.log("i am the richest guy ever lived ")
+
   return (
     <div className='app'>
       <ToastContainer/>
